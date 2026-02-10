@@ -1,0 +1,15 @@
+# Maven
+/target/
+
+# IDE
+/.idea/
+*.iml
+
+# Logs
+*.log
+
+# Node
+/node_modules/
+
+# Vaadin generated files
+/src/main/frontend/generated/

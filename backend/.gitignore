@@ -1,0 +1,14 @@
+# Maven
+/target/
+
+# IDE
+/.idea/
+*.iml
+
+# Logs
+*.log
+
+# H2 database files
+*.db
+*.trace.db
+*.lock.db
